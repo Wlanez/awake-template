@@ -1,5 +1,5 @@
 ---
-title: La guía para conseguir un trabajo de arquitecto
+title: La guía para conseguir un trabajo de Arquitecto de Soluciones
 subtitle: 8 pasos para avanzar
 category:
   - About Awake
